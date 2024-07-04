@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 
 
-//kibum.com.br/stacks//
