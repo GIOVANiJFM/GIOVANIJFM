@@ -1,5 +1,5 @@
 ## HI MY NAME IS GIOVANI👌UwU
-![MinecraftSteveGIF (2)](https://github.com/GIOVANiJFM/GIOVANIJFM/assets/174735422/752a9592-65dc-4ffa-998a-520bf49b48ef)![Free_fireGIF](https://github.com/GIOVANiJFM/GIOVANIJFM/assets/174735422/9fbeb33e-e742-4498-85d1-06cf40731f90)
+![MinecraftSteveGIF (2)](https://github.com/GIOVANiJFM/GIOVANIJFM/assets/174735422/752a9592-65dc-4ffa-998a-520bf49b48ef)
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
